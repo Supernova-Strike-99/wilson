@@ -1,0 +1,7 @@
+title,weekdays,start_time,end_time,location,is_online,start_week,end_week
+Math Lecture,1;3;5,09:00,10:00,Room 201,false,1,16
+DS Lecture,2;4,11:00,12:00,Lab 3A,false,1,16
+DS Lab,5,14:00,16:00,Lab 3A,false,1,16
+Digital Electronics,1;3,10:00,11:00,Room 305,false,1,16
+DE Lab,4,14:00,16:00,Electronics Lab,false,1,16
+Physics Online,2;4,15:00,16:00,Zoom,true,1,16
