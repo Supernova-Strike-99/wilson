@@ -6,7 +6,7 @@
 #include<utility>
 #include<tuple>
 using namespace std;
-int main(){
+int main(){     
     string cars1[4]; //declaration
     //declaration and initialization
     string cars2[4]={"Ferrari","BMW","Ford","Mclaren"};
